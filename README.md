@@ -37,12 +37,11 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 ### Deployed link:
 
-https://obscure-lowlands-66702.herokuapp.com/
+https://mycodesu.github.io/ReactPortfolio2/
 
 ### Screenshots 
 
-<img src="./public/assets/Screen Shot 2022-10-07 at 2.01.48 PM.png" alt="Michael's note taker title page">
-<img src="./public/assets/Screen Shot 2022-10-07 at 2.02.18 PM.png" alt="Michael's note taking page">
+<img src="./my-app/src/assets/Screenshot MS React Portfolio.png" alt="Michael's react portfolio">
 
 ### License
 

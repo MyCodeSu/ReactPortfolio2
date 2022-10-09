@@ -31,7 +31,7 @@ function Portfolio() {
 			name: 'Gift You Up',
 			description:
 				'Gift exchange and wishlists turned digital for all your organization needs.',
-			image: 'Giftyouup.gif',
+			image: 'Giftyouup.png',
 			technologies: ['HTML/CSS', 'JavaScript'],
 			github: 'https://github.com/MyCodeSu/Gift_You_Up',
 			deployed: 'https://secret-anchorage-62343.herokuapp.com/',

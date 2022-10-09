@@ -1,5 +1,6 @@
 import React from "react";
 
+
 function AboutMe() {
     return (
         <section>
@@ -14,7 +15,7 @@ function AboutMe() {
 				/>
 			</div>
 			<div>
-				<p>
+				<p className="text-center">
                 Hello, my name is Michael Su. I am a full stack developer with a passion for changing the world!
 				</p>
 			</div>
